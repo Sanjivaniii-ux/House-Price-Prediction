@@ -3,7 +3,7 @@ House Price Prediction using Machine Learning Algorithm(Random Forest, Linear Re
 
 
 ## Domain
-Real Estate
+Machine Learning
 
 ## Technologies Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
